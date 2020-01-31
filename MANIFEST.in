@@ -1,0 +1,3 @@
+include trafficmonitor/images/*.png
+include trafficmonitor/images/*.ico
+include trafficmonitor/images/*.gif
