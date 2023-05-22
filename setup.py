@@ -24,6 +24,6 @@ setuptools.setup(
           'trafficmonitor = trafficmonitor.trafficmonitor:run'
       ],
     },
-    install_requires=['mitmproxy==5.0.1', 'PyQt5==5.14.1', 'requests==2.22.0', 'openpyxl==3.0.3'],
+    install_requires=['mitmproxy==5.0.1', 'PyQt5==5.14.1', 'requests==2.31.0', 'openpyxl==3.0.3'],
     include_package_data=True,
 )
